@@ -7,6 +7,8 @@ A self-oscillating push-pull resonant converter (Royer/Mazzilli-type oscillator)
 
 This circuit operates at **high currents and voltages**, generates **strong magnetic fields**, and the MOSFETs/coil can get **extremely hot** during operation. The resonant capacitor bank can **store dangerous charge** even after power is disconnected.
 
+<img width="805" height="211" alt="image" src="https://github.com/user-attachments/assets/63660ec7-d420-4acc-aeaa-9b7c9e2efb0f" /> HERE IS THE SCHEMATICS OF THE BUILD 
+
 
 
 ## Overview
@@ -19,6 +21,9 @@ This circuit operates at **high currents and voltages**, generates **strong magn
 | Resonant Tank Caps   | 10 × 470nF (4.7µF total)       |
 | Output               | Coil1 / Coil2 (work coil)      |
 | Input                | +VDC (high-current supply)     |
+
+<img width="524" height="370" alt="image" src="https://github.com/user-attachments/assets/8e995d87-0bd6-4584-853d-85cc137ac43d" /> PCB DESING VIEW 
+
 
 ## Circuit Description
 
